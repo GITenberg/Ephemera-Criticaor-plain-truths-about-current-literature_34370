@@ -1,0 +1,31 @@
+_repo: Ephemera-Criticaor-plain-truths-about-current-literature_34370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, John Churton
+    alias: Collins, J. Churton (John Churton)
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '4668'
+    url: http://www.gutenberg.org/2009/agents/4668
+    wikipedia: http://en.wikipedia.org/wiki/John_Churton_Collins
+description: ''
+gutenberg_issued: '2010-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34370'
+  lccn: 02023976
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Criticism'
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PN'
+title: Ephemera Critica; Or, Plain Truths About Current Literature
+url: http://www.gutenberg.org/ebooks/34370
