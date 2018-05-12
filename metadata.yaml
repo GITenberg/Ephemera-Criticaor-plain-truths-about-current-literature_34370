@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4668
     wikipedia: http://en.wikipedia.org/wiki/John_Churton_Collins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34370#Ephemera-Criticaor-plain-truths-about-current-literature
 gutenberg_issued: '2010-11-19'
 gutenberg_type: Text
 identifiers:
